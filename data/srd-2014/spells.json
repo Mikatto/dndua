@@ -1,0 +1,4 @@
+﻿[
+  {"slug":"magic-missile","name":"Магічна стріла","level":1,"school":"Evocation","range":"36 м","classes":["wizard"]},
+  {"slug":"shield","name":"Щит","level":1,"school":"Abjuration","range":"Сам","classes":["wizard"]}
+]

@@ -1,0 +1,4 @@
+﻿[
+  {"slug":"fighter","name":"Боєць (2024)","hit_die":10,"primary_ability":"STR/DEX"},
+  {"slug":"wizard","name":"Маг (2024)","hit_die":6,"primary_ability":"INT"}
+]

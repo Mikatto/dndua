@@ -1,0 +1,4 @@
+﻿[
+  {"slug":"fighter","name":"Боєць","hit_die":10,"primary_ability":"STR/DEX"},
+  {"slug":"wizard","name":"Маг","hit_die":6,"primary_ability":"INT"}
+]

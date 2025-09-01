@@ -1,0 +1,4 @@
+﻿[
+  {"slug":"magic-missile","name":"Магічна стріла (оновл.)","level":1,"school":"Evocation","range":"36 м","classes":["wizard"]},
+  {"slug":"guidance","name":"Проведення","level":0,"school":"Divination","range":"Дотик","classes":["wizard"]}
+]
